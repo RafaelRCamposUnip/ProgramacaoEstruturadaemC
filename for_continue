@@ -7,7 +7,7 @@ int main(){
         if (num%2==0){
             printf("%d", num);
         }else{
-            continue
+            continue;
         }
     }
     return 0;
